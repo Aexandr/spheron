@@ -4,7 +4,7 @@ clear
 BINARY_NAME="fizz"
 VERSION="latest"
 FIZZUP_VERSION="v1.1.0"
-<!DOCTYPE html>
+
 # Fizz variables
 GATEWAY_ADDRESS="provider.demeters.io" # Provider domain: example = provider.devnetcsphn.com
 GATEWAY_PROXY_PORT="8553" # Proxyport = 8553
